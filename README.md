@@ -78,7 +78,8 @@ assign f7=~(a^b);
 endmodule
 ~~~
 **Logic symbol & Truthtable**
-<img width="469" height="912" alt="image" src="https://github.com/user-attachments/assets/0afefb05-6947-4603-b60e-110403ab1ce9" 
+<img width="469" height="912" alt="image" src="https://github.com/user-attachments/assets/cc51ff37-3ff7-41d2-a3d6-3863a3117a53" />
+
 **RTL realization Output:** 
 <img width="795" height="456" alt="image" src="https://github.com/user-attachments/assets/b03e1d1c-fd5b-4b5a-9054-8e48d1b4f492" />
 **RTL**
