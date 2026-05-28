@@ -1,6 +1,7 @@
 ### study-of-basic-gates
 Developed by: Praveen S
 RegisterNumber: 212225040314
+
 **AIM:** 
 
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -77,13 +78,16 @@ assign f6=a^b;
 assign f7=~(a^b);
 endmodule
 ~~~
+
 **Logic symbol & Truthtable**
 <img width="469" height="912" alt="image" src="https://github.com/user-attachments/assets/cc51ff37-3ff7-41d2-a3d6-3863a3117a53" />
 
 **RTL realization Output:** 
 <img width="795" height="456" alt="image" src="https://github.com/user-attachments/assets/b03e1d1c-fd5b-4b5a-9054-8e48d1b4f492" />
+
 **RTL**
 <img width="1740" height="697" alt="image" src="https://github.com/user-attachments/assets/e5a3f2cf-499d-491a-8833-1a3172c5ad30" />
+
 **Result:**
 Basic logic gates are studied and truth tables are verified
 
